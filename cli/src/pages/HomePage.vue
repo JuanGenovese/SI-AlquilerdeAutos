@@ -10,7 +10,7 @@
         <p class="text-white/90 mb-4">Explorá la Quebrada, a tu ritmo.</p>
       </div>
 
-      <div class="h-[35vh] flex flex-col justify-center items-end px-20">
+      <div class="h-[35vh] flex flex-col justify-center items-end px-25">
         <h2 class="text-xl font-bold mb-2"> Alquiler de autos en Jujuy</h2>
         <p class="text-white/90 mb-4"> Descubri los paisajes unicos de la Quebrada de Humahuaca y disfrutá de un viaje inolvidable en nuestro servicio de alquiler de autos</p>
         <div class="flex gap-2">
