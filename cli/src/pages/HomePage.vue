@@ -4,7 +4,7 @@
     <section class="h-[90vh] bg-gradient-to-r from-brand-marronRojizo to-brand-marronClaro text-white">
       
       <div class="h-[55vh] flex flex-col justify-center items-start bg-cover bg-center relative px-20"
-        style="background-image: url('../../public/Imagenampliadaconia.png');"
+        style="background-image: url('/Imagenampliadaconia.png');"
       > 
         <h1 class="text-3xl font-bold mb-2">Tu viaje por jujuy comienza acá</h1>
         <p class="text-white/90 mb-4">Explorá la Quebrada, a tu ritmo.</p>
